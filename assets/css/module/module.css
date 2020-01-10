@@ -1787,7 +1787,7 @@ button,
 /* Icons */
 
 	.icon {
-		text-decoration: none;
+        text-decoration: none;
 	}
 
 		.icon:before {
@@ -1983,7 +1983,7 @@ button,
             width: 275px;
             z-index: 10002;
             width: 275px;
-            background: #222729 url("../../images/overlay.png");
+            background: #222729 url("../images/overlay.png");
             box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.125);
         }
 
@@ -2110,6 +2110,7 @@ button,
 
 }
 
+
 /* Mobile */
 
 @media screen and (max-width: 736px) {
@@ -2166,4 +2167,5 @@ button,
             }
 
 }      
+
 
